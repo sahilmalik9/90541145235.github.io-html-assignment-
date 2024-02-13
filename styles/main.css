@@ -1,0 +1,42 @@
+body {
+    font-style: italic;
+    font-size: 18px;
+}
+
+footer,header  {
+    background-color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.site-title {
+    color: brown;
+    text-align: center;
+}
+
+#my-image{
+    box-shadow: 0 0 2px 1px black;
+    
+    
+}
+ol>li{
+    list-style-type: square;
+}
+
+Hobbies, ol > li:nth-child(odd){
+    background-color: chocolate;
+}
+span{
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background: center;
+    border: 2px solid red;
+    
+}
+a:hover{
+    background-color: chartreuse;
+}
